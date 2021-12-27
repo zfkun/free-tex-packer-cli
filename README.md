@@ -6,7 +6,7 @@ Free texture packer CLI
 
 # Install
    
-$ npm install -g free-tex-packer-cli
+$ npm install -g git@github.com:zfkun/free-tex-packer-cli.git
    
 # Usage
 ```
@@ -15,7 +15,7 @@ $ free-tex-packer-cli --project /path/to/project.ftpp --output /path/to/output/f
 
 # Used libs
 
-* **Free texture packer core** - https://github.com/odrick/free-tex-packer-core
+* **Free texture packer core** - https://github.com/zfkun/free-tex-packer-core
 
 ---
 License: MIT
